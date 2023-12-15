@@ -1,0 +1,4802 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20210131-20210301</PERIOD>
+ <STATION>
+ <MEAN_OBS>   3.43653411E-02 </MEAN_OBS>
+ <STDV_OBS>  0.139077723     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   4.29622456E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>  0.189036027     </BIAS>
+ <RMSE>  0.191951305     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.188401878     </BIAS>
+ <RMSE>  0.195872158     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   24689.5703     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189198121     </BIAS>
+ <RMSE>  0.192800909     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.10178423E-02 </MEAN_OBS>
+ <STDV_OBS>  0.444314539     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>  0.219892114     </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>  0.391805083     </BIAS>
+ <RMSE>  0.473389536     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.361798912     </BIAS>
+ <RMSE>  0.503642023     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   21099.4238     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.385009497     </BIAS>
+ <RMSE>  0.513549030     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.74359610E-03 </MEAN_OBS>
+ <STDV_OBS>   5.68642393E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   2.06541549E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   5.82074262E-02 </BIAS>
+ <RMSE>  0.173080131     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.81383109E-02 </BIAS>
+ <RMSE>  0.167657584     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   21797.5645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.16054833E-02 </BIAS>
+ <RMSE>  0.151213765     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.17460299E-03 </MEAN_OBS>
+ <STDV_OBS>   2.39847582E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1890 </NUM>
+ <MEAN>   6.30066404E-03 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   3.82794477E-02 </BIAS>
+ <RMSE>  0.152305782     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1890 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.11077610E-02 </BIAS>
+ <RMSE>  0.224414334     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1890 </NUM>
+ <MEAN>   21749.9902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.02576199E-02 </BIAS>
+ <RMSE>  0.201738998     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.24269826E-02 </MEAN_OBS>
+ <STDV_OBS>  0.113892958     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1883 </NUM>
+ <MEAN>   2.38252599E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>   8.62150341E-02 </BIAS>
+ <RMSE>  0.400048494     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1883 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.51306394E-02 </BIAS>
+ <RMSE>  0.358068496     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1883 </NUM>
+ <MEAN>   21479.5859     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.113122433     </BIAS>
+ <RMSE>  0.298390329     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.20413536E-02 </MEAN_OBS>
+ <STDV_OBS>   4.98457104E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1935 </NUM>
+ <MEAN>   1.38785681E-02 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>   5.40981516E-02 </BIAS>
+ <RMSE>  0.377058774     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1935 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.76919301E-02 </BIAS>
+ <RMSE>  0.431096882     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1935 </NUM>
+ <MEAN>   21763.0508     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.35524376E-02 </BIAS>
+ <RMSE>  0.377329677     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203471616     </MEAN_OBS>
+ <STDV_OBS>   3.13213058E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>i800</NAME>
+ <NUM>         288 </NUM>
+ <MEAN>   2.11855974E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>  0.163050801     </BIAS>
+ <RMSE>  0.252625555     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>i805</NAME>
+ <NUM>         288 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.164698899     </BIAS>
+ <RMSE>  0.219680458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         288 </NUM>
+ <MEAN>   22415.4238     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163000807     </BIAS>
+ <RMSE>  0.265676647     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.29412106E-02 </MEAN_OBS>
+ <STDV_OBS>   1.75563022E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>i800</NAME>
+ <NUM>         272 </NUM>
+ <MEAN>   8.43597949E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   8.36079046E-02 </BIAS>
+ <RMSE>   4.65192832E-02 </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>i805</NAME>
+ <NUM>         272 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.35144967E-02 </BIAS>
+ <RMSE>  -5.25941560E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         272 </NUM>
+ <MEAN>   21532.2500     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.37998390E-02 </BIAS>
+ <RMSE>  -1.14503633E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.52764509E-03 </MEAN_OBS>
+ <STDV_OBS>   1.20786792E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   2.64106411E-03 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   2.53531504E-02 </BIAS>
+ <RMSE>   4.63776290E-03 </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96184050E-02 </BIAS>
+ <RMSE>   5.58348978E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   23255.1758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.95612125E-02 </BIAS>
+ <RMSE>   2.51979493E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.13643515E-02 </MEAN_OBS>
+ <STDV_OBS>  0.302159041     </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1913 </NUM>
+ <MEAN>   8.24375525E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>  0.276007563     </BIAS>
+ <RMSE>  0.358737230     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1913 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.268300593     </BIAS>
+ <RMSE>  0.388584584     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1913 </NUM>
+ <MEAN>   22863.8477     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.285127729     </BIAS>
+ <RMSE>  0.356896698     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.90957664E-02 </MEAN_OBS>
+ <STDV_OBS>  0.240746140     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1858 </NUM>
+ <MEAN>   5.65013699E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.253363043     </BIAS>
+ <RMSE>  0.496713221     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.268157572     </BIAS>
+ <RMSE>  0.428426176     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1858 </NUM>
+ <MEAN>   21479.9961     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.269824803     </BIAS>
+ <RMSE>  0.484351873     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.93209706E-03 </MEAN_OBS>
+ <STDV_OBS>   3.28702591E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   5.52229164E-03 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>   3.78468558E-02 </BIAS>
+ <RMSE>   2.06253808E-02 </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.40374166E-02 </BIAS>
+ <RMSE>  -5.89171983E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   25025.8457     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.98679003E-02 </BIAS>
+ <RMSE>  -6.04558922E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15384663E-04 </MEAN_OBS>
+ <STDV_OBS>   2.10113339E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   4.12314385E-03 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   2.96433233E-02 </BIAS>
+ <RMSE>   4.48430814E-02 </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74769238E-02 </BIAS>
+ <RMSE>  0.103418633     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   23775.7754     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.18090136E-02 </BIAS>
+ <RMSE>   8.14977884E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.66933160E-02 </MEAN_OBS>
+ <STDV_OBS>   4.38327529E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1875 </NUM>
+ <MEAN>   1.49626955E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>  0.146155626     </BIAS>
+ <RMSE>  0.250227660     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1875 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143078402     </BIAS>
+ <RMSE>  0.278178036     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1875 </NUM>
+ <MEAN>   12781.9727     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143055409     </BIAS>
+ <RMSE>  0.263752848     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.45985521E-02 </MEAN_OBS>
+ <STDV_OBS>   3.86422835E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   1.33574652E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   8.06527808E-02 </BIAS>
+ <RMSE>  0.210332632     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.46439824E-02 </BIAS>
+ <RMSE>  0.118104555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   13991.9385     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.36754963E-02 </BIAS>
+ <RMSE>  0.111907870     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.07692355E-03 </MEAN_OBS>
+ <STDV_OBS>   1.46933021E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   3.55188549E-03 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>   3.51654440E-02 </BIAS>
+ <RMSE>  0.150427341     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.53982560E-02 </BIAS>
+ <RMSE>  0.117248930     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   18345.6797     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.24262902E-02 </BIAS>
+ <RMSE>   8.77544060E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.49056616E-03 </MEAN_OBS>
+ <STDV_OBS>   2.37156507E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   6.46986812E-03 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   6.59401938E-02 </BIAS>
+ <RMSE>  0.155845433     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.89622371E-02 </BIAS>
+ <RMSE>  0.379814535     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   17423.2793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.38606176E-02 </BIAS>
+ <RMSE>  0.176138833     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.24298835E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209253311     </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   6.07720837E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>  0.276444018     </BIAS>
+ <RMSE>  0.186021626     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.249238551     </BIAS>
+ <RMSE>  0.213564903     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   22402.4375     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209328249     </BIAS>
+ <RMSE>  0.237282723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.24335245E-03 </MEAN_OBS>
+ <STDV_OBS>   2.10707486E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   5.22195315E-03 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   3.00752502E-02 </BIAS>
+ <RMSE>  0.308597684     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82918960E-02 </BIAS>
+ <RMSE>  0.273722976     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   20053.2832     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65435651E-02 </BIAS>
+ <RMSE>  0.363456041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.48072131E-02 </MEAN_OBS>
+ <STDV_OBS>   6.61978275E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1945 </NUM>
+ <MEAN>   2.51023062E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>   8.72937441E-02 </BIAS>
+ <RMSE>  0.253404826     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1945 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.25695449E-02 </BIAS>
+ <RMSE>  0.233364940     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1945 </NUM>
+ <MEAN>   20196.3887     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.91951343E-02 </BIAS>
+ <RMSE>  0.227309510     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.97959165E-03 </MEAN_OBS>
+ <STDV_OBS>   5.28946593E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1960 </NUM>
+ <MEAN>   1.45121580E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   7.04732686E-02 </BIAS>
+ <RMSE>  0.241097271     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1960 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.21678941E-02 </BIAS>
+ <RMSE>  0.267394722     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1960 </NUM>
+ <MEAN>   20252.8613     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.65789098E-02 </BIAS>
+ <RMSE>  0.207999855     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.87138897E-02 </MEAN_OBS>
+ <STDV_OBS>  0.240887955     </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1866 </NUM>
+ <MEAN>   9.10590366E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>  0.273806870     </BIAS>
+ <RMSE>  0.362611115     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1866 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.277434975     </BIAS>
+ <RMSE>  0.361792147     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1866 </NUM>
+ <MEAN>   17409.8086     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.258611739     </BIAS>
+ <RMSE>  0.377337039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.64663009E-02 </MEAN_OBS>
+ <STDV_OBS>  0.136145309     </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1913 </NUM>
+ <MEAN>   2.81393379E-02 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>  0.133554548     </BIAS>
+ <RMSE>  0.487048984     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1913 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.115855537     </BIAS>
+ <RMSE>  0.537389517     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1913 </NUM>
+ <MEAN>   20699.7246     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126969233     </BIAS>
+ <RMSE>  0.401070565     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.76016181E-03 </MEAN_OBS>
+ <STDV_OBS>  0.270963699     </STDV_OBS>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   6.04057610E-02 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>  0.198122114     </BIAS>
+ <RMSE>   3.37443836E-02 </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.224609911     </BIAS>
+ <RMSE>   1.93732884E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2498 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   23440.1523     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.272827744     </BIAS>
+ <RMSE>   3.74881476E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103529431     </MEAN_OBS>
+ <STDV_OBS>  0.262284726     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>i800</NAME>
+ <NUM>         255 </NUM>
+ <MEAN>  0.107829414     </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.221809670     </BIAS>
+ <RMSE>   9.59639400E-02 </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>i805</NAME>
+ <NUM>         255 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.214621469     </BIAS>
+ <RMSE>  0.172665834     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         255 </NUM>
+ <MEAN>   3.49038315     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.290315658     </BIAS>
+ <RMSE>  0.170483053     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46067413E-02 </MEAN_OBS>
+ <STDV_OBS>   5.13103977E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>i800</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   2.09024157E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>  0.116639376     </BIAS>
+ <RMSE>  0.277770251     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>i805</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.110036515     </BIAS>
+ <RMSE>  0.291933924     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         178 </NUM>
+ <MEAN>   20369.0371     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.23228380E-02 </BIAS>
+ <RMSE>  0.145782530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.41207036E-02 </MEAN_OBS>
+ <STDV_OBS>  0.279828608     </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1922 </NUM>
+ <MEAN>   6.30344898E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>  0.259791702     </BIAS>
+ <RMSE>  0.524240613     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1922 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.278777868     </BIAS>
+ <RMSE>  0.456401080     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1922 </NUM>
+ <MEAN>   19658.9180     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.302395910     </BIAS>
+ <RMSE>  0.462618083     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15542021E-02 </MEAN_OBS>
+ <STDV_OBS>  0.102938160     </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   3.31901275E-02 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>  0.109310523     </BIAS>
+ <RMSE>  0.234073222     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.112978235     </BIAS>
+ <RMSE>  0.196372688     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   19595.6543     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.105089776     </BIAS>
+ <RMSE>  0.248634607     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.77415361E-02 </MEAN_OBS>
+ <STDV_OBS>  0.315848738     </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1904 </NUM>
+ <MEAN>   6.84789494E-02 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>  0.209943742     </BIAS>
+ <RMSE>  0.190681487     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1904 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.293987840     </BIAS>
+ <RMSE>  0.173894957     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1904 </NUM>
+ <MEAN>   19516.2383     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.325722307     </BIAS>
+ <RMSE>  0.199458152     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.104920931     </MEAN_OBS>
+ <STDV_OBS>  0.207818598     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>i800</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   7.58645609E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>  0.286017388     </BIAS>
+ <RMSE>  0.223719463     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>i805</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.281823397     </BIAS>
+ <RMSE>  0.113918468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         569 </NUM>
+ <MEAN>   19804.1758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.260587841     </BIAS>
+ <RMSE>  0.148626626     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26262615E-03 </MEAN_OBS>
+ <STDV_OBS>   3.16645242E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1980 </NUM>
+ <MEAN>   5.80593664E-03 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>   3.59067246E-02 </BIAS>
+ <RMSE>   1.82027998E-03 </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1980 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.54974829E-02 </BIAS>
+ <RMSE>   1.38211157E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1980 </NUM>
+ <MEAN>   20882.5039     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.54446955E-02 </BIAS>
+ <RMSE>  0.119950846     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.92562568E-02 </MEAN_OBS>
+ <STDV_OBS>  0.109385483     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>i800</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   7.77934045E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>  0.162596822     </BIAS>
+ <RMSE>   6.09911419E-02 </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>i805</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162572473     </BIAS>
+ <RMSE>   9.92084369E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   18279.4062     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.160198718     </BIAS>
+ <RMSE>  0.130023062     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.69392114E-02 </MEAN_OBS>
+ <STDV_OBS>  0.128189072     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   3.05388458E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>  0.153329849     </BIAS>
+ <RMSE>  0.483282596     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.168766513     </BIAS>
+ <RMSE>  0.434108526     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   19791.4199     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.123326808     </BIAS>
+ <RMSE>  0.443201244     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.22488684E-03 </MEAN_OBS>
+ <STDV_OBS>   8.11927319E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1921 </NUM>
+ <MEAN>   2.74759308E-02 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   8.69412944E-02 </BIAS>
+ <RMSE>  0.152314454     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1921 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.03071281E-02 </BIAS>
+ <RMSE>  0.142623737     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1921 </NUM>
+ <MEAN>   28.0189724     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.63142461E-02 </BIAS>
+ <RMSE>  0.123197727     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74509694E-02 </MEAN_OBS>
+ <STDV_OBS>   5.19095361E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1887 </NUM>
+ <MEAN>   1.83742009E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   7.76275992E-02 </BIAS>
+ <RMSE>  0.402106941     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.55615011E-02 </BIAS>
+ <RMSE>  0.446278274     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1887 </NUM>
+ <MEAN>   20954.1641     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.39349201E-02 </BIAS>
+ <RMSE>  0.446833938     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100186169     </MEAN_OBS>
+ <STDV_OBS>   3.75172310E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>i800</NAME>
+ <NUM>         537 </NUM>
+ <MEAN>   1.54137537E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>  0.173684180     </BIAS>
+ <RMSE>  0.114081524     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>i805</NAME>
+ <NUM>         537 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.172646239     </BIAS>
+ <RMSE>  0.108152710     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         537 </NUM>
+ <MEAN>   23540.2695     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.174412087     </BIAS>
+ <RMSE>   7.30646700E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.76356097E-03 </MEAN_OBS>
+ <STDV_OBS>   1.44759193E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1954 </NUM>
+ <MEAN>   3.86839197E-03 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   2.33146921E-02 </BIAS>
+ <RMSE>  0.229654580     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1954 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25911327E-02 </BIAS>
+ <RMSE>  0.231526732     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1954 </NUM>
+ <MEAN>   21817.0918     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.15238314E-02 </BIAS>
+ <RMSE>  0.240447700     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.08008224E-04 </MEAN_OBS>
+ <STDV_OBS>   1.84566025E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   4.78699943E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   1.73248891E-02 </BIAS>
+ <RMSE>  0.143411264     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97451655E-02 </BIAS>
+ <RMSE>   7.38940760E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   23437.3848     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88112631E-02 </BIAS>
+ <RMSE>   8.46658051E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36387656E-02 </MEAN_OBS>
+ <STDV_OBS>  0.123575673     </STDV_OBS>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   3.13102044E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>  0.106496774     </BIAS>
+ <RMSE>  0.370983452     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.112953603     </BIAS>
+ <RMSE>  0.412801981     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   15850.6494     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.118474208     </BIAS>
+ <RMSE>  0.335177183     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.64526380E-03 </MEAN_OBS>
+ <STDV_OBS>   4.05557193E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   1.03100603E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   5.86402640E-02 </BIAS>
+ <RMSE>  0.100254714     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.41374274E-02 </BIAS>
+ <RMSE>  0.111862212     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   22181.3223     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.12864254E-02 </BIAS>
+ <RMSE>  0.179698914     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.79178196E-03 </MEAN_OBS>
+ <STDV_OBS>   4.49968353E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1945 </NUM>
+ <MEAN>   1.00519173E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>   5.87290823E-02 </BIAS>
+ <RMSE>  0.278422862     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1945 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.06291948E-02 </BIAS>
+ <RMSE>  0.371553928     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1945 </NUM>
+ <MEAN>   21806.1758     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.11184931E-02 </BIAS>
+ <RMSE>  0.437068135     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.69230658E-03 </MEAN_OBS>
+ <STDV_OBS>   2.27282383E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   4.07665642E-03 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   5.48305362E-02 </BIAS>
+ <RMSE>   9.46591794E-02 </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.22644036E-02 </BIAS>
+ <RMSE>  0.135820866     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2338 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   23140.3770     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.24124689E-02 </BIAS>
+ <RMSE>  0.122416601     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.64271041E-03 </MEAN_OBS>
+ <STDV_OBS>   2.93430910E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   5.01636323E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   2.92377006E-02 </BIAS>
+ <RMSE>  0.506492913     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.86376681E-02 </BIAS>
+ <RMSE>  0.508168101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   20119.8535     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.75934618E-02 </BIAS>
+ <RMSE>  0.504979849     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.61474813E-02 </MEAN_OBS>
+ <STDV_OBS>   7.09611923E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   2.63214186E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>   6.31247982E-02 </BIAS>
+ <RMSE>  0.578285873     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.62879571E-02 </BIAS>
+ <RMSE>  0.541534722     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   16685.4375     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.88091463E-02 </BIAS>
+ <RMSE>  0.630774915     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.21205668E-02 </MEAN_OBS>
+ <STDV_OBS>  0.168941066     </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1924 </NUM>
+ <MEAN>   7.03868568E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.181370541     </BIAS>
+ <RMSE>  0.216419578     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1924 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163022816     </BIAS>
+ <RMSE>  0.252747238     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1924 </NUM>
+ <MEAN>   18029.0449     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.174505413     </BIAS>
+ <RMSE>  0.217965409     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.129022360     </MEAN_OBS>
+ <STDV_OBS>  0.145640016     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>i800</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   9.60066095E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>  0.213778526     </BIAS>
+ <RMSE>   9.79823023E-02 </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>i805</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.203101352     </BIAS>
+ <RMSE>  0.181653485     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         665 </NUM>
+ <MEAN>   20999.6387     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.212556437     </BIAS>
+ <RMSE>  0.188688725     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.41309719E-03 </MEAN_OBS>
+ <STDV_OBS>   4.77278084E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   1.36109442E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   5.77754267E-02 </BIAS>
+ <RMSE>  0.515858173     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.00821173E-02 </BIAS>
+ <RMSE>  0.626652241     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   23056.8438     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.63164002E-02 </BIAS>
+ <RMSE>  0.497799456     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.76432683E-02 </MEAN_OBS>
+ <STDV_OBS>  0.188197657     </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1884 </NUM>
+ <MEAN>   6.26766533E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>  0.250699550     </BIAS>
+ <RMSE>  0.112901226     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1884 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.217017427     </BIAS>
+ <RMSE>  0.195949808     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1884 </NUM>
+ <MEAN>  0.203705952     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.226986453     </BIAS>
+ <RMSE>  0.215406924     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.52947186E-02 </MEAN_OBS>
+ <STDV_OBS>  0.127156228     </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   2.15885621E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>  0.116777353     </BIAS>
+ <RMSE>  0.343291044     </RMSE>
+ <CORR>   4.39712646E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135839641     </BIAS>
+ <RMSE>  0.310802639     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   23096.2500     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.114980958     </BIAS>
+ <RMSE>  0.504918575     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.49975646E-03 </MEAN_OBS>
+ <STDV_OBS>   8.19654241E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1953 </NUM>
+ <MEAN>   1.55342389E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   6.46978766E-02 </BIAS>
+ <RMSE>  0.552237809     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1953 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.85558394E-02 </BIAS>
+ <RMSE>  0.522659004     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1953 </NUM>
+ <MEAN>   13421.6885     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.90614933E-02 </BIAS>
+ <RMSE>  0.358573675     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.35696325E-02 </MEAN_OBS>
+ <STDV_OBS>  0.228968486     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1975 </NUM>
+ <MEAN>   4.78130765E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.202501938     </BIAS>
+ <RMSE>  0.324544549     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1975 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.186509773     </BIAS>
+ <RMSE>  0.259301841     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1975 </NUM>
+ <MEAN>   18994.3262     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.223857880     </BIAS>
+ <RMSE>  0.219448537     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.51658093E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1977 </NUM>
+ <MEAN>   5.35326498E-03 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   4.15027924E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.39712646E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1977 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.87460440E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1977 </NUM>
+ <MEAN>   17046.9395     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.51594428E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.35473961E-02 </MEAN_OBS>
+ <STDV_OBS>  0.196526811     </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   4.97515351E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>  0.196206361     </BIAS>
+ <RMSE>  0.319703728     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.224746838     </BIAS>
+ <RMSE>  0.274570078     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   18840.7246     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199488759     </BIAS>
+ <RMSE>  0.216997236     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.87234015E-03 </MEAN_OBS>
+ <STDV_OBS>   2.53597852E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1880 </NUM>
+ <MEAN>   4.56431648E-03 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   3.63370031E-02 </BIAS>
+ <RMSE>   6.84449971E-02 </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1880 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.53419296E-02 </BIAS>
+ <RMSE>   3.37107182E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1880 </NUM>
+ <MEAN>   13109.5469     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.56446058E-02 </BIAS>
+ <RMSE>   2.62157414E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.83576053E-04 </MEAN_OBS>
+ <STDV_OBS>   4.58961464E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1924 </NUM>
+ <MEAN>   5.70189487E-03 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   4.18838561E-02 </BIAS>
+ <RMSE>  0.496737033     </RMSE>
+ <CORR>   4.39712646E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1924 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.17325944E-02 </BIAS>
+ <RMSE>  0.502339900     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1924 </NUM>
+ <MEAN>   13905.1240     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.17824127E-02 </BIAS>
+ <RMSE>  0.503740430     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.47179570E-02 </MEAN_OBS>
+ <STDV_OBS>  0.301632136     </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   8.79575387E-02 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>  0.283652395     </BIAS>
+ <RMSE>  0.320183158     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.242250517     </BIAS>
+ <RMSE>  0.333370864     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   21045.2656     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.285586596     </BIAS>
+ <RMSE>  0.332570761     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.41516161E-03 </MEAN_OBS>
+ <STDV_OBS>   6.55470192E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1939 </NUM>
+ <MEAN>   2.01513022E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   5.68580851E-02 </BIAS>
+ <RMSE>  0.608646870     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1939 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.45185006E-02 </BIAS>
+ <RMSE>  0.615544736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1939 </NUM>
+ <MEAN>   18833.9902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.35593107E-02 </BIAS>
+ <RMSE>  0.584889233     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.54693556E-03 </MEAN_OBS>
+ <STDV_OBS>  0.138044924     </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1854 </NUM>
+ <MEAN>   5.47882468E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.120253257     </BIAS>
+ <RMSE>  0.179380283     </RMSE>
+ <CORR>   4.39712646E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1854 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135455400     </BIAS>
+ <RMSE>  0.186226800     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1854 </NUM>
+ <MEAN>   15072.1191     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135559469     </BIAS>
+ <RMSE>  0.198334023     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.87177395E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   6.71268953E-03 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   3.05284206E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.88128015E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   18935.0020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.87104417E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.85560335E-03 </MEAN_OBS>
+ <STDV_OBS>   3.91178243E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1856 </NUM>
+ <MEAN>   4.43170080E-03 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   4.22524773E-02 </BIAS>
+ <RMSE>  0.407974362     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1856 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.23387475E-02 </BIAS>
+ <RMSE>  0.416694075     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1856 </NUM>
+ <MEAN>   21299.5996     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.71565484E-02 </BIAS>
+ <RMSE>  0.473545074     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.87804972E-03 </MEAN_OBS>
+ <STDV_OBS>   6.07625395E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   7.91206956E-03 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>  0.124726005     </BIAS>
+ <RMSE>  0.186036438     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126435772     </BIAS>
+ <RMSE>  0.141285956     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   15825.2793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.49738100E-02 </BIAS>
+ <RMSE>  0.283211827     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.71971321E-02 </MEAN_OBS>
+ <STDV_OBS>  0.118482128     </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   3.47145088E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>  0.125608206     </BIAS>
+ <RMSE>  0.337473184     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.115171798     </BIAS>
+ <RMSE>  0.370672822     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>  0.220486477     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.125419289     </BIAS>
+ <RMSE>  0.360568851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.78614960E-03 </MEAN_OBS>
+ <STDV_OBS>   9.91665050E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1964 </NUM>
+ <MEAN>   2.37220321E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.101857796     </BIAS>
+ <RMSE>  0.564870179     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1964 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.53159800E-02 </BIAS>
+ <RMSE>  0.594621420     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1964 </NUM>
+ <MEAN>   18477.2715     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.21411982E-02 </BIAS>
+ <RMSE>  0.628315926     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.57790920E-02 </MEAN_OBS>
+ <STDV_OBS>  0.204867184     </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   7.26816207E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>  0.228018060     </BIAS>
+ <RMSE>  0.254261285     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.201216087     </BIAS>
+ <RMSE>  0.313091785     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   19530.9922     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.218851060     </BIAS>
+ <RMSE>  0.319155723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.47474760E-03 </MEAN_OBS>
+ <STDV_OBS>   6.10688515E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1980 </NUM>
+ <MEAN>   7.72875361E-03 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   9.00990367E-02 </BIAS>
+ <RMSE>  0.259809464     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1980 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.84286463E-02 </BIAS>
+ <RMSE>  0.256319255     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1980 </NUM>
+ <MEAN>  0.206310391     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.79333417E-02 </BIAS>
+ <RMSE>  0.385480613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.40186448E-03 </MEAN_OBS>
+ <STDV_OBS>   5.53824082E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1931 </NUM>
+ <MEAN>   6.82166545E-03 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   9.29085612E-02 </BIAS>
+ <RMSE>  0.797241390     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1931 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.52915794E-02 </BIAS>
+ <RMSE>  0.805253863     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1931 </NUM>
+ <MEAN>   19053.7617     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.03768118E-02 </BIAS>
+ <RMSE>  0.408092558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.93209441E-02 </MEAN_OBS>
+ <STDV_OBS>   7.25346208E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   1.41029451E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   9.82311144E-02 </BIAS>
+ <RMSE>  0.552988231     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104455106     </BIAS>
+ <RMSE>  0.460198909     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   19295.9473     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107901789     </BIAS>
+ <RMSE>  0.432200074     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.28311785E-02 </MEAN_OBS>
+ <STDV_OBS>   7.60074034E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1925 </NUM>
+ <MEAN>   1.39047140E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   7.29471594E-02 </BIAS>
+ <RMSE>  0.562108994     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1925 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.30300024E-02 </BIAS>
+ <RMSE>  0.564650059     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1925 </NUM>
+ <MEAN>   20334.6094     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.69283718E-02 </BIAS>
+ <RMSE>  0.674002528     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200990245     </MEAN_OBS>
+ <STDV_OBS>  0.135352015     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>i800</NAME>
+ <NUM>         101 </NUM>
+ <MEAN>   7.13070557E-02 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>  0.199262053     </BIAS>
+ <RMSE>  0.364446998     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>i805</NAME>
+ <NUM>         101 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184810355     </BIAS>
+ <RMSE>  0.434673935     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         101 </NUM>
+ <MEAN>   20725.9219     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.181190565     </BIAS>
+ <RMSE>  0.458372772     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.169697136     </MEAN_OBS>
+ <STDV_OBS>  0.193819195     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>i800</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>  0.120142274     </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.146214738     </BIAS>
+ <RMSE>  0.559932530     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>i805</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.141392261     </BIAS>
+ <RMSE>  0.569844484     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>          66 </NUM>
+ <MEAN>   13287.4004     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.157692969     </BIAS>
+ <RMSE>  0.575500131     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.39979431E-02 </MEAN_OBS>
+ <STDV_OBS>   7.00837523E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1936 </NUM>
+ <MEAN>   1.76249146E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   6.21772073E-02 </BIAS>
+ <RMSE>  0.512494504     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1936 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.60324192E-02 </BIAS>
+ <RMSE>  0.580553532     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1936 </NUM>
+ <MEAN>   11901.8896     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.43697530E-02 </BIAS>
+ <RMSE>  0.564228177     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.60688155E-03 </MEAN_OBS>
+ <STDV_OBS>   3.43571343E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   9.84430593E-03 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   6.24031499E-02 </BIAS>
+ <RMSE>  0.494056135     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.79508394E-02 </BIAS>
+ <RMSE>  0.495720327     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   16726.7754     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.42711695E-02 </BIAS>
+ <RMSE>  0.326912880     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.78125147E-03 </MEAN_OBS>
+ <STDV_OBS>   7.70560876E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   2.19161995E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   6.87911659E-02 </BIAS>
+ <RMSE>  0.290198207     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.25489056E-02 </BIAS>
+ <RMSE>  0.262914836     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   15090.3926     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.11901039E-02 </BIAS>
+ <RMSE>  0.382436424     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.47127412E-03 </MEAN_OBS>
+ <STDV_OBS>   5.18881865E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   1.84371099E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   6.38177544E-02 </BIAS>
+ <RMSE>  0.339850456     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.04207665E-02 </BIAS>
+ <RMSE>  0.364296317     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   19425.0449     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.57451285E-02 </BIAS>
+ <RMSE>  0.278827786     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.89583239E-03 </MEAN_OBS>
+ <STDV_OBS>   4.75037917E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   1.26118353E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   5.04446924E-02 </BIAS>
+ <RMSE>  0.232071251     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.95515652E-02 </BIAS>
+ <RMSE>  0.206602052     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   19753.5898     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.51584661E-02 </BIAS>
+ <RMSE>  0.190995052     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108219117     </MEAN_OBS>
+ <STDV_OBS>   8.92201439E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>i800</NAME>
+ <NUM>          73 </NUM>
+ <MEAN>  0.102103151     </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>  0.117721245     </BIAS>
+ <RMSE>   4.97878492E-02 </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>i805</NAME>
+ <NUM>          73 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.130618244     </BIAS>
+ <RMSE>   8.06100965E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>          73 </NUM>
+ <MEAN>   17431.4355     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.86525735E-02 </BIAS>
+ <RMSE>  0.153325573     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.94495055E-02 </MEAN_OBS>
+ <STDV_OBS>  0.154550403     </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   3.84406336E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.135442287     </BIAS>
+ <RMSE>  0.624605298     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126755670     </BIAS>
+ <RMSE>  0.552704275     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1962 </NUM>
+ <MEAN>   19609.6992     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.140482277     </BIAS>
+ <RMSE>  0.541375458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74611358E-03 </MEAN_OBS>
+ <STDV_OBS>   3.72939669E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   1.01326006E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   5.17240241E-02 </BIAS>
+ <RMSE>  0.257119685     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.67509292E-02 </BIAS>
+ <RMSE>  0.273005635     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   19306.9902     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.23554666E-02 </BIAS>
+ <RMSE>  0.167134047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.99055630E-02 </MEAN_OBS>
+ <STDV_OBS>  0.252613246     </STDV_OBS>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1907 </NUM>
+ <MEAN>   6.52057156E-02 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>  0.225579545     </BIAS>
+ <RMSE>  0.396167308     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1907 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.207193077     </BIAS>
+ <RMSE>  0.422729939     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1907 </NUM>
+ <MEAN>   18302.1738     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.251556903     </BIAS>
+ <RMSE>  0.275037974     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.139024422     </MEAN_OBS>
+ <STDV_OBS>   6.27827868E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>i800</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   4.28477079E-02 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>  0.102066368     </BIAS>
+ <RMSE>  0.365271211     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>i805</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.57867801E-02 </BIAS>
+ <RMSE>  0.415289193     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>          82 </NUM>
+ <MEAN>   20390.3652     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.49849528E-02 </BIAS>
+ <RMSE>  0.273229063     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.53724495E-02 </MEAN_OBS>
+ <STDV_OBS>  0.210292965     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1893 </NUM>
+ <MEAN>   5.22748977E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>  0.215910286     </BIAS>
+ <RMSE>  0.195257947     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.177250057     </BIAS>
+ <RMSE>  0.293516785     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1893 </NUM>
+ <MEAN>   17764.9922     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.201504558     </BIAS>
+ <RMSE>  0.289888233     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.12820552E-04 </MEAN_OBS>
+ <STDV_OBS>   2.88567692E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   7.69174891E-03 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>   2.70671304E-02 </BIAS>
+ <RMSE>   5.65768518E-02 </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.49979848E-02 </BIAS>
+ <RMSE>   3.63741815E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   21027.0566     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95976140E-02 </BIAS>
+ <RMSE>   5.69663979E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.66666526E-02 </MEAN_OBS>
+ <STDV_OBS>   8.74447897E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   2.74244417E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>  0.130223691     </BIAS>
+ <RMSE>  0.234014198     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.103267021     </BIAS>
+ <RMSE>  0.311314344     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   20012.1895     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.96821299E-02 </BIAS>
+ <RMSE>  0.337115109     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125000149     </MEAN_OBS>
+ <STDV_OBS>   3.34189795E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>i800</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   2.42688544E-02 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   6.41406998E-02 </BIAS>
+ <RMSE>   3.97439934E-02 </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>i805</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.87835349E-02 </BIAS>
+ <RMSE>   6.79030120E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         120 </NUM>
+ <MEAN>   21091.4336     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.09747469E-02 </BIAS>
+ <RMSE>   7.41331652E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150000140     </MEAN_OBS>
+ <STDV_OBS>   9.74000171E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>i800</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>   6.39436617E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>  0.199402377     </BIAS>
+ <RMSE> -0.134407684     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>i805</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.136813506     </BIAS>
+ <RMSE> -0.112658545     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         180 </NUM>
+ <MEAN>   23114.1406     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.127070084     </BIAS>
+ <RMSE>  -5.92750721E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.408333451     </MEAN_OBS>
+ <STDV_OBS>  0.663526356     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>i800</NAME>
+ <NUM>         144 </NUM>
+ <MEAN>  0.679775119     </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>  0.584116638     </BIAS>
+ <RMSE>  0.690371096     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>i805</NAME>
+ <NUM>         144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.497293353     </BIAS>
+ <RMSE>  0.701688349     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         144 </NUM>
+ <MEAN>   20212.5449     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.483246833     </BIAS>
+ <RMSE>  0.712894440     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07028848E-02 </MEAN_OBS>
+ <STDV_OBS>   5.30496202E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1878 </NUM>
+ <MEAN>   1.52074387E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   6.14693947E-02 </BIAS>
+ <RMSE>  0.313529164     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1878 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.49442098E-02 </BIAS>
+ <RMSE>  0.292641968     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1878 </NUM>
+ <MEAN>   21722.3008     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.21697493E-02 </BIAS>
+ <RMSE>  0.262848675     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.12409555E-03 </MEAN_OBS>
+ <STDV_OBS>   3.75389345E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   1.24060996E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   5.07364385E-02 </BIAS>
+ <RMSE>  0.222558588     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.81193773E-02 </BIAS>
+ <RMSE>  0.178729281     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   21264.5098     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.03472798E-02 </BIAS>
+ <RMSE>  0.169660062     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.01422754E-03 </MEAN_OBS>
+ <STDV_OBS>   1.51736615E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   4.30671545E-03 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>   4.31580804E-02 </BIAS>
+ <RMSE>   7.02195913E-02 </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.99131365E-02 </BIAS>
+ <RMSE>  0.113919675     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   22789.8965     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.74763347E-02 </BIAS>
+ <RMSE>   9.69915465E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.18292841E-03 </MEAN_OBS>
+ <STDV_OBS>   3.07793636E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   8.57780781E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   4.04797941E-02 </BIAS>
+ <RMSE>  0.172393113     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.65189016E-02 </BIAS>
+ <RMSE>  0.367707193     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1968 </NUM>
+ <MEAN>   7.26991415     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.98589037E-02 </BIAS>
+ <RMSE>  0.224918723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.46114459E-03 </MEAN_OBS>
+ <STDV_OBS>   3.20172757E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   1.27878524E-02 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   5.01988493E-02 </BIAS>
+ <RMSE>  0.133662567     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.14372943E-02 </BIAS>
+ <RMSE>  0.244845957     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   23666.2363     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.14317399E-02 </BIAS>
+ <RMSE>  0.177939981     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.05499008E-04 </MEAN_OBS>
+ <STDV_OBS>   6.78869989E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1964 </NUM>
+ <MEAN>   1.07700366E-03 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   9.65673104E-03 </BIAS>
+ <RMSE>   2.73311436E-02 </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1964 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07456949E-02 </BIAS>
+ <RMSE>  -6.13795128E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1964 </NUM>
+ <MEAN>   22569.5098     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.69547576E-03 </BIAS>
+ <RMSE>   1.21241016E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45282892E-02 </MEAN_OBS>
+ <STDV_OBS>   4.71451432E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   2.20075585E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   8.41303170E-02 </BIAS>
+ <RMSE>  0.341697305     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.94859603E-02 </BIAS>
+ <RMSE>  0.401881993     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1908 </NUM>
+ <MEAN>   18759.3125     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.85441995E-02 </BIAS>
+ <RMSE>  0.368939281     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.17284235E-03 </MEAN_OBS>
+ <STDV_OBS>   1.87365878E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   6.56383717E-03 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   3.87308635E-02 </BIAS>
+ <RMSE>  0.116890073     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.46908309E-02 </BIAS>
+ <RMSE>  0.188164845     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1944 </NUM>
+ <MEAN>   23037.7168     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.44208851E-02 </BIAS>
+ <RMSE>  0.148870870     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.16474330E-02 </MEAN_OBS>
+ <STDV_OBS>   7.00358301E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1906 </NUM>
+ <MEAN>   1.89378709E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>   8.26009139E-02 </BIAS>
+ <RMSE>  0.247947842     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1906 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.52390623E-02 </BIAS>
+ <RMSE>  0.361489892     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1906 </NUM>
+ <MEAN>   22146.1504     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.16377348E-02 </BIAS>
+ <RMSE>  0.274633378     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.44427522E-03 </MEAN_OBS>
+ <STDV_OBS>   4.62692678E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1947 </NUM>
+ <MEAN>   9.12211370E-03 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>   5.34221642E-02 </BIAS>
+ <RMSE>  0.210730463     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1947 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.79548217E-02 </BIAS>
+ <RMSE>  0.111787803     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1947 </NUM>
+ <MEAN>   22525.1289     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.25765026E-02 </BIAS>
+ <RMSE>   8.01464245E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.38461529E-03 </MEAN_OBS>
+ <STDV_OBS>   2.75523569E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   4.39371122E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   4.31885533E-02 </BIAS>
+ <RMSE>  0.151562899     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.98698933E-02 </BIAS>
+ <RMSE>  0.141609251     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2347 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1950 </NUM>
+ <MEAN>   21276.3398     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.15004119E-02 </BIAS>
+ <RMSE>  0.118468583     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45398749E-03 </MEAN_OBS>
+ <STDV_OBS>   4.40725982E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   9.92750656E-03 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   6.06911331E-02 </BIAS>
+ <RMSE>  0.471415699     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.22547269E-02 </BIAS>
+ <RMSE>  0.366803944     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   19154.5332     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.00684774E-02 </BIAS>
+ <RMSE>  0.428307831     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.68098053E-03 </MEAN_OBS>
+ <STDV_OBS>   3.14951763E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   6.08818466E-03 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   4.34662029E-02 </BIAS>
+ <RMSE>  0.443848968     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.30894643E-02 </BIAS>
+ <RMSE>  0.321517050     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   14711.0557     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82810943E-02 </BIAS>
+ <RMSE>  0.317235142     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.79260075E-02 </MEAN_OBS>
+ <STDV_OBS>   6.25522658E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1919 </NUM>
+ <MEAN>   1.03564775E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   6.80739805E-02 </BIAS>
+ <RMSE>  0.559944689     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1919 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.42059594E-02 </BIAS>
+ <RMSE>  0.546972394     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1919 </NUM>
+ <MEAN>   14254.4912     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.69987053E-02 </BIAS>
+ <RMSE>  0.543180108     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.29272152E-04 </MEAN_OBS>
+ <STDV_OBS>   3.30267251E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1937 </NUM>
+ <MEAN>   5.93129080E-03 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   2.84234304E-02 </BIAS>
+ <RMSE>  0.214405984     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1937 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.88972985E-02 </BIAS>
+ <RMSE>  0.218622476     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1937 </NUM>
+ <MEAN>   14822.8740     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.32144201E-02 </BIAS>
+ <RMSE>  0.191494316     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40286277E-03 </MEAN_OBS>
+ <STDV_OBS>   4.48474362E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   8.45138263E-03 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   3.31757665E-02 </BIAS>
+ <RMSE>  0.264501125     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.41326445E-02 </BIAS>
+ <RMSE>  0.235304072     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   116.296638     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.62858863E-02 </BIAS>
+ <RMSE>  0.166849896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.89938385E-03 </MEAN_OBS>
+ <STDV_OBS>   2.89070345E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   6.37473399E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   2.84117460E-02 </BIAS>
+ <RMSE>  0.212518603     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58923378E-02 </BIAS>
+ <RMSE>  0.230851978     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1948 </NUM>
+ <MEAN>   17605.7793     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.02800685E-02 </BIAS>
+ <RMSE>  0.197216853     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.33436409E-03 </MEAN_OBS>
+ <STDV_OBS>   3.09799928E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   8.74326844E-03 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   3.36261168E-02 </BIAS>
+ <RMSE>  0.370864004     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.95407828E-02 </BIAS>
+ <RMSE>  0.421747059     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   19738.7285     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.09534408E-02 </BIAS>
+ <RMSE>  0.375418246     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.13496988E-04 </MEAN_OBS>
+ <STDV_OBS>   1.13143232E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   1.95702538E-03 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   1.74640771E-02 </BIAS>
+ <RMSE>  -1.42483199E-02 </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46207428E-02 </BIAS>
+ <RMSE>  -1.22182602E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   12521.0723     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38306012E-02 </BIAS>
+ <RMSE>  -1.33812306E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.201875165     </MEAN_OBS>
+ <STDV_OBS>  0.228683785     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>i800</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>  0.185790464     </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>  0.233021051     </BIAS>
+ <RMSE>  0.322941452     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>i805</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.190137625     </BIAS>
+ <RMSE>  0.408462286     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         160 </NUM>
+ <MEAN>   17793.2539     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213460669     </BIAS>
+ <RMSE>  0.417699039     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.06107770E-02 </MEAN_OBS>
+ <STDV_OBS>   8.58866721E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1932 </NUM>
+ <MEAN>   2.48210393E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   9.12828967E-02 </BIAS>
+ <RMSE>  0.498871773     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1932 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.73974508E-02 </BIAS>
+ <RMSE>  0.545780838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1932 </NUM>
+ <MEAN>   20194.0645     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.97532222E-02 </BIAS>
+ <RMSE>  0.612091541     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.47989467E-02 </MEAN_OBS>
+ <STDV_OBS>   6.78754374E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1865 </NUM>
+ <MEAN>   2.51772851E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   7.34820515E-02 </BIAS>
+ <RMSE>  0.415947437     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1865 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.27434924E-02 </BIAS>
+ <RMSE>  0.437342197     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1865 </NUM>
+ <MEAN>   20911.0781     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.12091571E-02 </BIAS>
+ <RMSE>  0.497179806     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.52128860E-02 </MEAN_OBS>
+ <STDV_OBS>   8.83449391E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   3.60061787E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>   9.95493382E-02 </BIAS>
+ <RMSE>  0.341375023     </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.85770544E-02 </BIAS>
+ <RMSE>  0.390893847     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1926 </NUM>
+ <MEAN>   18066.4980     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.91093463E-02 </BIAS>
+ <RMSE>  0.373289645     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.36740832E-02 </MEAN_OBS>
+ <STDV_OBS>   9.89965573E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1878 </NUM>
+ <MEAN>   4.65756655E-02 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>  0.154899582     </BIAS>
+ <RMSE>  0.257414371     </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1878 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.143207431     </BIAS>
+ <RMSE>  0.277200222     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1878 </NUM>
+ <MEAN>   22456.2832     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.142086357     </BIAS>
+ <RMSE>  0.305515468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.45595958E-02 </MEAN_OBS>
+ <STDV_OBS>  0.113374583     </STDV_OBS>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   2.41816789E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   9.42782685E-02 </BIAS>
+ <RMSE>  0.404433608     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.35179293E-02 </BIAS>
+ <RMSE>  0.355731755     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1930 </NUM>
+ <MEAN>   20405.1934     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.108717322     </BIAS>
+ <RMSE>  0.380778193     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.248570800     </MEAN_OBS>
+ <STDV_OBS>  0.477092028     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>i800</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  0.155182779     </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.543174207     </BIAS>
+ <RMSE>  0.350268453     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>i805</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.424653023     </BIAS>
+ <RMSE>  0.390141815     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   8.85446739     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.479034990     </BIAS>
+ <RMSE>  0.241305366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.31199649E-02 </MEAN_OBS>
+ <STDV_OBS>  0.191717193     </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1907 </NUM>
+ <MEAN>   8.14590976E-02 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>  0.208964750     </BIAS>
+ <RMSE>  0.307267606     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1907 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.190296188     </BIAS>
+ <RMSE>  0.374128848     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1907 </NUM>
+ <MEAN>   20216.1934     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.191437423     </BIAS>
+ <RMSE>  0.385689318     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.33542286E-02 </MEAN_OBS>
+ <STDV_OBS>   8.37987363E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   3.46948355E-02 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>  0.127701223     </BIAS>
+ <RMSE>   6.67964518E-02 </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.133479953     </BIAS>
+ <RMSE>   7.36880451E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>  0.187841326     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.129147917     </BIAS>
+ <RMSE>   7.93382972E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.16721725E-02 </MEAN_OBS>
+ <STDV_OBS>   6.79918900E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1818 </NUM>
+ <MEAN>   2.42569260E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   8.36089477E-02 </BIAS>
+ <RMSE>  0.249788389     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1818 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.49780813E-02 </BIAS>
+ <RMSE>  0.254662931     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1818 </NUM>
+ <MEAN>   25186.5508     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.29909593E-02 </BIAS>
+ <RMSE>  0.268907100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.27694684E-03 </MEAN_OBS>
+ <STDV_OBS>   8.70819241E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1921 </NUM>
+ <MEAN>   3.72956470E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.100375876     </BIAS>
+ <RMSE>   1.68768372E-02 </RMSE>
+ <CORR>   2.24488019E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1921 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.14738700E-02 </BIAS>
+ <RMSE>   1.21230939E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1921 </NUM>
+ <MEAN>   24148.5801     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.46544856E-02 </BIAS>
+ <RMSE>   2.19474826E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.07146467E-03 </MEAN_OBS>
+ <STDV_OBS>   2.88817938E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1931 </NUM>
+ <MEAN>   6.84640277E-03 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>   3.13423090E-02 </BIAS>
+ <RMSE>   1.13050546E-02 </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1931 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.64669433E-02 </BIAS>
+ <RMSE>   2.50365911E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1931 </NUM>
+ <MEAN>   24650.8574     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.23644876E-02 </BIAS>
+ <RMSE>  -1.32263098E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45524198E-03 </MEAN_OBS>
+ <STDV_OBS>   3.78694423E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1955 </NUM>
+ <MEAN>   1.09962048E-02 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   3.88666652E-02 </BIAS>
+ <RMSE>  0.212250426     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1955 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.45945098E-02 </BIAS>
+ <RMSE>  0.191368848     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1955 </NUM>
+ <MEAN>   21203.6914     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.83814648E-02 </BIAS>
+ <RMSE>  0.180351838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.78503683E-02 </MEAN_OBS>
+ <STDV_OBS>  0.219138920     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1898 </NUM>
+ <MEAN>   5.57416230E-02 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>  0.262861609     </BIAS>
+ <RMSE>  0.345174760     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1898 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.220544830     </BIAS>
+ <RMSE>  0.496612161     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1898 </NUM>
+ <MEAN>   7.48542070     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.231652617     </BIAS>
+ <RMSE>  0.457046628     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101462975     </MEAN_OBS>
+ <STDV_OBS>  0.358264714     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>  0.125451729     </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>  0.350954503     </BIAS>
+ <RMSE>  0.531591833     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.341993183     </BIAS>
+ <RMSE>  0.551488936     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1914 </NUM>
+ <MEAN>   24539.8242     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.358760148     </BIAS>
+ <RMSE>  0.515323639     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.10798720E-02 </MEAN_OBS>
+ <STDV_OBS>   7.70897493E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1778 </NUM>
+ <MEAN>   1.90278720E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   6.83542192E-02 </BIAS>
+ <RMSE>  0.301513642     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1778 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.92738762E-02 </BIAS>
+ <RMSE>  0.273880124     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1778 </NUM>
+ <MEAN>   19145.9922     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.87152871E-02 </BIAS>
+ <RMSE>  0.258190423     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.165068224     </MEAN_OBS>
+ <STDV_OBS>   8.62797052E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>i800</NAME>
+ <NUM>         292 </NUM>
+ <MEAN>   5.80607951E-02 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>  0.173363209     </BIAS>
+ <RMSE> -0.107216105     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>i805</NAME>
+ <NUM>         292 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.167170241     </BIAS>
+ <RMSE>  -7.52102286E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         292 </NUM>
+ <MEAN>   24226.6074     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.158674493     </BIAS>
+ <RMSE>  -4.32423279E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.21801523E-02 </MEAN_OBS>
+ <STDV_OBS>   6.58996925E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1954 </NUM>
+ <MEAN>   1.79895740E-02 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   6.25076368E-02 </BIAS>
+ <RMSE>  0.373352051     </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1954 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.95034026E-02 </BIAS>
+ <RMSE>  0.298297197     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1954 </NUM>
+ <MEAN>   22608.6719     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.68051764E-02 </BIAS>
+ <RMSE>  0.364336282     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17551629E-02 </MEAN_OBS>
+ <STDV_OBS>  0.123712324     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1846 </NUM>
+ <MEAN>   3.51776257E-02 </MEAN>
+ <STDV>   2.24485746E-08 </STDV>
+ <BIAS>  0.115557596     </BIAS>
+ <RMSE>  0.279686868     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1846 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.124047905     </BIAS>
+ <RMSE>  0.256427020     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1846 </NUM>
+ <MEAN>   23177.6797     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.118804492     </BIAS>
+ <RMSE>  0.283210337     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.07195266E-03 </MEAN_OBS>
+ <STDV_OBS>   3.92317325E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   1.02087324E-02 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   5.08718938E-02 </BIAS>
+ <RMSE>  0.265560150     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.34559116E-02 </BIAS>
+ <RMSE>  0.315549076     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1918 </NUM>
+ <MEAN>   24615.9805     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.65699844E-02 </BIAS>
+ <RMSE>  0.350339562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203937128     </MEAN_OBS>
+ <STDV_OBS>   1.79437976E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>i800</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   7.88807776E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>  0.141257972     </BIAS>
+ <RMSE>  -8.48691165E-02 </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>i805</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.145376414     </BIAS>
+ <RMSE> -0.122873679     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   21812.1777     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.141551733     </BIAS>
+ <RMSE> -0.121212795     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.11701442E-03 </MEAN_OBS>
+ <STDV_OBS>   2.44840365E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1957 </NUM>
+ <MEAN>   5.41425915E-03 </MEAN>
+ <STDV>   2.24505072E-08 </STDV>
+ <BIAS>   4.22952995E-02 </BIAS>
+ <RMSE>   8.89858347E-05 </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1957 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.71707417E-02 </BIAS>
+ <RMSE>  -1.15990946E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1957 </NUM>
+ <MEAN>   19144.9395     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.48385461E-02 </BIAS>
+ <RMSE>  -4.95640794E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.47867462E-04 </MEAN_OBS>
+ <STDV_OBS>   3.73736396E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   6.94904011E-03 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   3.62521596E-02 </BIAS>
+ <RMSE>  0.135961235     </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.57260981E-02 </BIAS>
+ <RMSE>  0.193344340     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1899 </NUM>
+ <MEAN>   22916.6855     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.63612063E-02 </BIAS>
+ <RMSE>  0.231748074     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.53374232E-04 </MEAN_OBS>
+ <STDV_OBS>   2.52293907E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   5.83316153E-03 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   3.24129835E-02 </BIAS>
+ <RMSE>   1.39293307E-02 </RMSE>
+ <CORR>   4.40146520E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25852467E-02 </BIAS>
+ <RMSE>   1.71505827E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1956 </NUM>
+ <MEAN>   21745.6641     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.54368652E-02 </BIAS>
+ <RMSE>   2.26760171E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.66241951E-03 </MEAN_OBS>
+ <STDV_OBS>   3.00328489E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1884 </NUM>
+ <MEAN>   5.72227454E-03 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   3.61989550E-02 </BIAS>
+ <RMSE>   4.27830629E-02 </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1884 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.18406634E-02 </BIAS>
+ <RMSE>   1.70625616E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1884 </NUM>
+ <MEAN>   17044.6328     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.89245525E-02 </BIAS>
+ <RMSE>  -4.06872854E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.80598581E-03 </MEAN_OBS>
+ <STDV_OBS>   8.12552590E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   1.62710005E-03 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>   2.09655948E-02 </BIAS>
+ <RMSE>   2.37292447E-03 </RMSE>
+ <CORR>   4.09159275E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.03111321E-02 </BIAS>
+ <RMSE>  -7.05911638E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1938 </NUM>
+ <MEAN>   20729.7617     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.71636045E-02 </BIAS>
+ <RMSE>   4.24076356E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.53124847E-03 </MEAN_OBS>
+ <STDV_OBS>   1.99199431E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   5.74118318E-03 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   3.55996788E-02 </BIAS>
+ <RMSE>  0.198842540     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.85499077E-02 </BIAS>
+ <RMSE>  0.177079618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1920 </NUM>
+ <MEAN>   17582.5117     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.74038929E-02 </BIAS>
+ <RMSE>  0.188193426     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.02892288E-03 </MEAN_OBS>
+ <STDV_OBS>   7.35077485E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1936 </NUM>
+ <MEAN>   1.46048777E-02 </MEAN>
+ <STDV>   4.40144942E-25 </STDV>
+ <BIAS>   6.38224110E-02 </BIAS>
+ <RMSE>  0.218189329     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1936 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.07177131E-02 </BIAS>
+ <RMSE>  0.176048294     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1936 </NUM>
+ <MEAN>   7.78485346     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.23262355E-02 </BIAS>
+ <RMSE>  0.204784736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.56167883E-03 </MEAN_OBS>
+ <STDV_OBS>   8.80858898E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1905 </NUM>
+ <MEAN>   1.86656862E-02 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   7.97993839E-02 </BIAS>
+ <RMSE>   5.63646816E-02 </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1905 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.46420771E-02 </BIAS>
+ <RMSE>   6.95499703E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1905 </NUM>
+ <MEAN>   23050.3613     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.21088234E-02 </BIAS>
+ <RMSE>   4.05613184E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.59875555E-03 </MEAN_OBS>
+ <STDV_OBS>   8.42561126E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1929 </NUM>
+ <MEAN>   1.78775229E-02 </MEAN>
+ <STDV>   2.24488019E-08 </STDV>
+ <BIAS>   7.05897510E-02 </BIAS>
+ <RMSE>  0.205704600     </RMSE>
+ <CORR>   1.10235021E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1929 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.54414755E-02 </BIAS>
+ <RMSE>  0.129363462     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1929 </NUM>
+ <MEAN>   21975.1523     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.44057873E-02 </BIAS>
+ <RMSE>  0.159340724     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.52827334E-03 </MEAN_OBS>
+ <STDV_OBS>   5.60803935E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1963 </NUM>
+ <MEAN>   8.80786777E-03 </MEAN>
+ <STDV>   4.40146520E-25 </STDV>
+ <BIAS>   4.33440842E-02 </BIAS>
+ <RMSE>  -2.16992386E-03 </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1963 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.34769355E-02 </BIAS>
+ <RMSE>  -7.31934234E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1963 </NUM>
+ <MEAN>   21782.2461     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.85215874E-02 </BIAS>
+ <RMSE>  -4.65156790E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.72483291E-03 </MEAN_OBS>
+ <STDV_OBS>   3.54291536E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1937 </NUM>
+ <MEAN>   7.54859857E-03 </MEAN>
+ <STDV>   1.10235021E-08 </STDV>
+ <BIAS>   6.27517849E-02 </BIAS>
+ <RMSE>  0.133159623     </RMSE>
+ <CORR>   4.40143364E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1937 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.98289520E-02 </BIAS>
+ <RMSE>  0.147615567     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1937 </NUM>
+ <MEAN>   23229.3164     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.66631705E-02 </BIAS>
+ <RMSE>  0.206021160     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.69358096E-03 </MEAN_OBS>
+ <STDV_OBS>   4.09517102E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1932 </NUM>
+ <MEAN>   7.58807641E-03 </MEAN>
+ <STDV>   4.39712646E-25 </STDV>
+ <BIAS>   6.41774759E-02 </BIAS>
+ <RMSE>   4.81913835E-02 </RMSE>
+ <CORR>   1.10234453E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1932 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.03151268E-02 </BIAS>
+ <RMSE>  0.189123914     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1932 </NUM>
+ <MEAN>   24034.2480     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.49722016E-02 </BIAS>
+ <RMSE>  0.120193608     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.84719193E-03 </MEAN_OBS>
+ <STDV_OBS>   4.92343158E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1865 </NUM>
+ <MEAN>   1.25799831E-02 </MEAN>
+ <STDV>   4.40143364E-25 </STDV>
+ <BIAS>   7.16623664E-02 </BIAS>
+ <RMSE>  0.108609818     </RMSE>
+ <CORR>   2.24485746E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1865 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.24144562E-02 </BIAS>
+ <RMSE>  0.162005767     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1865 </NUM>
+ <MEAN>   22653.7832     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.82209060E-02 </BIAS>
+ <RMSE>  0.151919901     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.44203615E-03 </MEAN_OBS>
+ <STDV_OBS>   3.23269777E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1846 </NUM>
+ <MEAN>   8.38663615E-03 </MEAN>
+ <STDV>   1.10234453E-08 </STDV>
+ <BIAS>   6.09631352E-02 </BIAS>
+ <RMSE>  0.135016367     </RMSE>
+ <CORR>   2.24505072E-08 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1846 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.01588711E-02 </BIAS>
+ <RMSE>   6.54414520E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1846 </NUM>
+ <MEAN>   22604.7832     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.44195324E-02 </BIAS>
+ <RMSE>  0.178694382     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48874789E-03 </MEAN_OBS>
+ <STDV_OBS>   2.82711890E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>i800</NAME>
+ <NUM>        1911 </NUM>
+ <MEAN>   5.47306240E-03 </MEAN>
+ <STDV>   4.09159275E-25 </STDV>
+ <BIAS>   5.16970940E-02 </BIAS>
+ <RMSE>  0.179478049     </RMSE>
+ <CORR>   4.40144942E-25 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>i805</NAME>
+ <NUM>        1911 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.83452305E-02 </BIAS>
+ <RMSE>  0.153362766     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>i805_ref</NAME>
+ <NUM>        1911 </NUM>
+ <MEAN>   24649.1855     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.97273915E-02 </BIAS>
+ <RMSE>  0.169247597     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
